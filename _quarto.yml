@@ -1,0 +1,23 @@
+project:
+  type: website
+  output-dir: /home/crossjam/bmdphd-site/public/quarto
+  
+website:
+  title: "Brian M. Dennis, PhD"
+  site-url: https://bmdphd.info
+  description: "Brian M. Dennis, PhD"
+  
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+
+

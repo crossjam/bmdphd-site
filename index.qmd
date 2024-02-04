@@ -1,0 +1,137 @@
+---
+title: "Brian M. Dennis Phd."
+---
+
+### Information informs, analysis enlightens
+
+_An informal biographical site for Brian M. Dennis, PhD a.k.a
+bmdphd. The primary intent of this content is to supplement other
+circulating professional materials (e.g. resumé, LinkedIn) with more
+depth and personality._
+
+-----
+
+**Me**: I’m an African-American dad, husband, brother, son, and technologist
+based in the northern part of the Commonwealth of Virginia, United
+States of America.
+
+------
+
+**Career**: I started messing around with computers in a Maryland high
+school during the era of the TRS-80, IBM PC, Apple II, and
+Commodore 64. Then it was off to college at MIT where more formal
+computing and programming came naturally, leading to a Bachelors in
+Computer Science.
+
+Not putting a lot of thought into it (_bad idea_), I headed West to
+grad school for more Computer Science at UC Berkeley. The research
+group I joined consisted of folks interested in programming language
+design and implementation, PLDI, as a foundation for advanced software
+development environments. Think today’s [Visual Studio
+Code](https://en.wikipedia.org/wiki/Visual_Studio_Code) on machines
+from 30 years ago. I carved out a minor niche in the area of scripting
+language design for such platforms leading to a successfully completed
+dissertation (_good idea_). I also completed a minor in Journalism.
+Just being part of the Computer Science Division, I also picked up
+general interests in Systems research (computer architecture,
+operating systems, networking, databases, distributed systems,
+etc.). I jokingly consider myself an adjunct of the (fictitious)
+Berkeley Systems Mafia.
+
+Before filing my dissertation, I started a tenure track faculty
+position at Northwestern University. While I fizzled out as a
+professor, I loved living in the greater Chicago area, and my
+interests in media and technology were brought together. Working with
+a colleague in the Medill School of Journalism, I deployed content
+management system technology into the newsroom that every Journalism
+masters student spent a couple of quarters working in. A renowned
+compatriot in English and History allowed me to collaborate in the
+development of an online essay documenting Daniel Burnham’s [_The Plan
+of
+Chicago_](http://www.encyclopedia.chicagohistory.org/pages/10537.html)
+
+Subsequently, I moved to Northern Virginia taking on a sequence of
+industry jobs which you can see below, all of which were engaged with
+computing research in some fashion. Some highlights
+
+* At Lockeed Martin, I was the lead for Office of Naval Research
+  contracted work investigating early [Twitter usage during HADR
+  events](https://ebiquity.umbc.edu/resource/html/id/280/Understanding-RSM-Relief-Social-Media)
+* I designed and implemented key infrastructure components of the core data platform for
+  [DARPA’s PlanX, while at Invincea Labs](https://insidedefense.com/share/204438)
+* As a SETA, I assisted a DARPA program manager in developing, from
+  pitch to kickoff, the $50+ million dollar
+  [SocialSim](https://www.darpa.mil/program/computational-simulation-of-online-social-behavior)
+  program while also administering a $10+ million dollar portfolio of
+  SBIR and seedling projects
+* For Data Machines, I was the principal investigator on the DARPA
+  [LwLL](https://www.darpa.mil/program/learning-with-less-labeling)
+  and
+  [ASED](https://www.darpa.mil/program/active-social-engineering-defense)
+  programs and a founder of the [OTA business consortium](https://www.orionconsortium.org) created to
+  execute the [DARPA
+  Constellation](https://www.darpa.mil/news-events/2022-11-28) effort
+
+------
+
+**Personal**: Great experiences and friendships were made playing
+grass roots [Ultimate](https://usaultimate.org) around the world, but I’ve retired from
+that. I’m a recovering sports watchaholic, retaining only an addiction
+to [Manchester City football](https://mancity.com/). Otherwise, I spend a lot of time
+supporting my son and walking around a lot to try and stay fit. I have
+a very slow hobby learning how to cook basic comfort foods. Over the
+past few years, I’ve managed to establish a book reading habit and
+complete 15-30 books a year. The only consistent genre pursued is
+[speculative
+fiction](https://en.wikipedia.org/wiki/Speculative_fiction) but a
+healthy diversity of non-fiction is included. Various
+forms of electronic dance music make me nod my head and tap my feet.
+
+Decades onward, to this very day, I still mess around with computers
+for fun. My primary programming language is [Python](https://www.python.org), I’m literate in
+[Go](https://go.dev), and taking up [Rust](https://rust-lang.org). Due to my academic heritage, I have a soft
+spot for dynamic languages in general and the [Lisp
+family](https://en.wikipedia.org/wiki/Lisp_(programming_language)) in
+particular. The one true text editor is [GNU
+Emacs](https://en.wikipedia.org/wiki/GNU_Emacs). I’d be happy if it
+was a [Linux](https://en.wikipedia.org/wiki/Linux) world, but to make
+my desktop life easy I’m heavy into the Apple ecosystem.
+
+------
+
+**Social Personas**
+
+* [Email: bmdphd(at)bmdphd.info](mailto:bmdphd.info)
+* [LinkedIn: Brian M. Dennis](https://linkedin.com/in/crossjam)
+* [GitHub: @crossjam (personal projects)](https://github.com/crossjam)
+* [The Platform Formerly Known As Twitter: @crossjam (inactive)](https://twitter.com/crossjam)
+
+_These days, I don’t do TheSocials (TM). The platforms are typically used in read-only mode._
+
+------
+
+**Alma Maters**
+
+* Walkersville High School: 1985
+* Massachusetts Institue of Technology: BS EECS (VI-3) 1989
+* University of California, Berkeley: MS Computer Science 1994, PhD
+  Computer Science 1998
+
+------
+
+**Employers**
+
+* Distinguished Research Engineer / SVP Advanced Programs, Aperio
+  Global LLC: 2023 -
+  Present
+* Chief Technology Officer / Director of Data Platforms, Data Machines
+  Corporation: 2018 - 2023
+* Science Engineering and Technical Advisor (SETA) for DARPA I2O,
+  Schafer Corporation: 2016 - 2018
+* Senior Principal Research Scientist, Invincea Labs: 2014 - 2016
+* Lockheed Martin Fellow / Senior Principal Research Scientist,
+  Lockheed Martin Advanced Technology Laboratories: 2007 - 2014
+* Assistant Professor, Northwestern University: Computer Science
+  Department and Medill School of Journalism, 1997 - 2006
+
+------

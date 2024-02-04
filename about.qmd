@@ -1,0 +1,5 @@
+---
+title: "About"
+---
+
+[bmdphd.info](https://bmdphd.info) was created using [Quarto](https://quarto.org/)
